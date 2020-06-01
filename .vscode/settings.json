@@ -12,5 +12,8 @@
       "autoFix": true
     }
   ],
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }
